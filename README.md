@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/126167868-384517319639465-575833.gif" width="200">
+<h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/Dance.gif" width="200">
 
 Discord: !fishgang Cy#8242
 
