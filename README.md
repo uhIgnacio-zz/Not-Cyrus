@@ -1,6 +1,11 @@
 <h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/126167868-384517319639465-575833.gif" width="200">
 
-Discord: !fishgang Cy#8242</h1>
+Discord: !fishgang Cy#8242
+
+A bit about me: 
+</h1>
+
+- I am 18 and I am very idiotic, that's about it.
 
 <table>
 	<thead align="center">
