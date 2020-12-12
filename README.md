@@ -1,11 +1,14 @@
 <h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/Dance.gif" width="75">
 
 Discord: !fishgang Cy#8242
+
 A bit about me: 
 </h1>
 - I am 18 and I am very idiotic, that's about it.
 
 ### Some fun stuff
+
+![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
 
 <table>
 	<thead align="center">
@@ -22,7 +25,5 @@ A bit about me:
 		</tr>
 	</tbody>
 </table>
-
-![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Cyrus&theme=tokyonight&langs_count=10?exclude_repo=Not-Cyrus)
