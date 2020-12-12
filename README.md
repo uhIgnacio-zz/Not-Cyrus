@@ -2,8 +2,6 @@
 
 Discord: !fishgang Cy#8242</h1>
 
-<p>I like my github to be a chaotic neutral.</p>
-
 <table>
 	<thead align="center">
 	<tr border: none;>
