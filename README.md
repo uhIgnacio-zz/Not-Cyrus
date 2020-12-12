@@ -3,6 +3,7 @@ Discord: !fishgang Cy#8242
 
 A bit about me: 
 </h1>
+
 - I am 18 and I am very idiotic, that's about it.
 
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
