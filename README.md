@@ -1,4 +1,6 @@
-<h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/Dance.gif" width="75">Discord: !fishgang Cy#8242
+<h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/Dance.gif" width="75">
+
+Discord: !fishgang Cy#8242
 
 A bit about me: 
 </h1>
