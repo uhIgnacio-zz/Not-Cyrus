@@ -1,4 +1,4 @@
-<h1><img src="https://i.imgur.com/pR98r5V.mp4" width="50">Discord: !fishgang Cy#8242</h1>
+<h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/126167868-384517319639465-575833.gif" width="50">Discord: !fishgang Cy#8242</h1>
 
 ### Most used languages include 
 
@@ -6,4 +6,4 @@
 
 ### Github Stats
 
-![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=radical)
+![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
