@@ -18,10 +18,9 @@
 	<tbody>
 		<tr>
 			<td><a href = "https://github.com/Not-Cyrus/GoGuardian"><b>GoGuardian - Server Protection</b></a></td>
-			<td><a href = "https://github.com/Not-Cyrus/GoRaider"><b>GoRaider - Server Destruction</b></a></td>
 		</tr>
 		<tr>
-			<td><b>test</b></td>
+			<td><a href = "https://github.com/Not-Cyrus/GoRaider"><b>GoRaider - Server Destruction</b></a></td>
 		</tr>
 	</tbody>
 </table>
