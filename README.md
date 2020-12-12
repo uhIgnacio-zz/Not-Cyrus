@@ -7,6 +7,8 @@ A bit about me:
 
 - I am 18 and I am very idiotic, that's about it.
 
+### Some fun stuff
+
 <table>
 	<thead align="center">
 	<tr border: none;>
@@ -23,10 +25,6 @@ A bit about me:
 	</tbody>
 </table>
 
-### Github Stats 
-
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
-
-### Most used languages include 
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Cyrus&theme=tokyonight&langs_count=10?exclude_repo=Not-Cyrus)
