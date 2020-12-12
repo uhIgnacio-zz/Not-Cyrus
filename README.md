@@ -1,4 +1,7 @@
-<h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/126167868-384517319639465-575833.gif" width="200">Discord: !fishgang Cy#8242</h1>
+<h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/126167868-384517319639465-575833.gif" width="200">
+
+Discord: !fishgang Cy#8242</h1>
+
 <p>I like my github to be a chaotic neutral.</p>
 
 <table>
