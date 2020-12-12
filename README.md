@@ -1,5 +1,4 @@
-<h1><img src="https://imgur.com/a/FSq6vv2" width="50">Discord: !fishgang Cy#8242</h1>
-<p>Here's my discord: !fishgang Cy#8242</p>
+<h1><img src="https://i.imgur.com/pR98r5V.mp4" width="50">Discord: !fishgang Cy#8242</h1>
 
 ### Most used languages include 
 
