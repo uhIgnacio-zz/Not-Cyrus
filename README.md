@@ -4,7 +4,6 @@ Discord: !fishgang Cy#8242
 
 A bit about me: 
 </h1>
-
 - I am 18 and I am very idiotic, that's about it.
 
 ### Some fun stuff
