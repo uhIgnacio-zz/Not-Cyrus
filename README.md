@@ -2,8 +2,7 @@
 
 A bit about me:
 </h1>
-- Discord: !fishgang Cy#8242
-- I am 18 and I am very idiotic, that's about it.
+- I am 18 and I am very idiotic, that's about it. Here's my discord: !fishgang Cy#8242
 
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
 
