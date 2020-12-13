@@ -4,8 +4,6 @@
 </h1>
 <p>If you wanted to know, I am 18.</p>
 
-![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
-
 <table>
 	<thead align="center">
 	<tr border: none;>
@@ -21,5 +19,7 @@
 		</tr>
 	</tbody>
 </table>
+
+![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Cyrus&theme=tokyonight&langs_count=10?exclude_repo=Not-Cyrus)
