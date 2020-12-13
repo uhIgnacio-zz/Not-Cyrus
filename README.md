@@ -1,7 +1,7 @@
 <h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/Dance.gif" width="75">
 	Here's my discord: !fishgang Cy#8242
+	If you wanted to know, I am 18.
 </h1>
-- If you wanted to know, I am 18.
 
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
 
