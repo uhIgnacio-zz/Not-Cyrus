@@ -7,7 +7,7 @@
 <table>
 	<thead align="center">
 	<tr border: none;>
-		<td><b>Chaotic Neutralization Of My Brain</b></td>
+		<td><b>Products of Chaos</b></td>
 	</tr>
 	</thead>
 	<tbody>
