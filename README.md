@@ -1,15 +1,11 @@
-<h1><img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/Dance.gif" width="75">
-	
-	Here's my discord: !fishgang Cy#8242
-</h1>
+<h1>Here's my discord: !fishgang Cy#8242</h1>
 <p>If you wanted to know, I am 18.</p>
-
+<img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/Dance.gif" width="100">
 <table>
 	<thead align="center">
 	<tr border: none;>
-		<td><b>Products of Chaos</b></td>
+		<td><b>Products of an insane mind</b></td>
 	</tr>
-	</thead>
 	<tbody>
 		<tr>
 			<td><a href = "https://github.com/Not-Cyrus/GoGuardian"><b>GoGuardian - Server Protection</b></a></td>
