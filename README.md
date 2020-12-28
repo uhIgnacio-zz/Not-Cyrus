@@ -1,4 +1,7 @@
 <h1>Here's my discord: !fishgang Cy#8242</h1>
+
+![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
+
 <table>
 	<thead align="center">
 	<tr border: none;>
@@ -14,5 +17,4 @@
 	</tbody>
 </table>
 
-![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Cyrus&theme=tokyonight&langs_count=10?exclude_repo=Not-Cyrus&layout=compact)
