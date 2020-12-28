@@ -1,6 +1,4 @@
 <h1>Here's my discord: !fishgang Cy#8242</h1>
-<p>If you wanted to know, I am 18.</p>
-<img src="https://github.com/Not-Cyrus/Not-Cyrus/blob/main/Dance.gif" width="100">
 <table>
 	<thead align="center">
 	<tr border: none;>
