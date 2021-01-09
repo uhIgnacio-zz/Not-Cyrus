@@ -1,4 +1,4 @@
-<h1>Here's my discord: !fishgang Cy#7013</h1>
+<h1>Here's my discord: !fishgang Cy#1792</h1>
 
 <table>
 	<thead align="center">
