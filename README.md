@@ -1,5 +1,7 @@
 <h1>Here's my discord: !fishgang Cy#1792</h1>
 
+- Note, half of my (golang) repos are stuff I was making while still proper getting the foothold of it, I keep them on my github for 2 reasons. 1. It shows how well I've improved in the language (in my opinion), resources to allow starters to read something utterly garbage and not feel over whelmed by the complexity of bigger golang projects.
+
 <table>
 	<thead align="center">
 	<tr border: none;>
