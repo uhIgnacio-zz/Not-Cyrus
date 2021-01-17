@@ -2,9 +2,9 @@
 
 # Note, half of my (golang) repos are stuff I was making while still proper getting the foothold of it. I keep them on my github for 2 reasons. 
 
-- 1. It shows how well I've improved in the language (in my opinion) 
+- It shows how well I've improved in the language (in my opinion) 
 
-- 2. As resources to allow starters to read something utterly garbage and not feel over whelmed by the complexity of bigger golang projects.
+- As resources to allow starters to read something utterly garbage and not feel over whelmed by the complexity of bigger golang projects.
 
 <table>
 	<thead align="center">
