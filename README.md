@@ -1,6 +1,6 @@
 <h1>Here's my discord: !fishgang Cy#1792</h1>
 
-# Note, half of my (golang) repos are stuff I was making while still proper getting the foothold of it. I keep them on my github for 2 reasons. 
+# Note, half of my (golang) repos are stuff I was making while still getting the foothold of it. I keep them on my github bec
 
 - It shows how well I've improved in the language (in my opinion) 
 
