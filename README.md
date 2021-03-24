@@ -19,6 +19,6 @@
 	</tbody>
 </table>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Cyrus&theme=tokyonight&langs_count=10?exclude_repo=Not-Cyrus&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Cyrus&theme=tokyonight&langs_count=10?exclude_repo=Not-Cyrus,discord-file-webhook-upload&layout=compact)
 
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
