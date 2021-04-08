@@ -1,4 +1,4 @@
-# Note, half of my (golang) repos are stuff I was making while still getting the foothold of it. I keep them on my github because:
+# Note, half of my old (golang) repos are stuff I was making while still getting the foothold of it. I keep them on my github because:
 
 - It shows how well I've improved in the language (in my opinion) 
 
