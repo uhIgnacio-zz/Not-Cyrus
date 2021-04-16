@@ -4,6 +4,8 @@
 
 - As resources to allow starters to read something utterly garbage and not feel overwhelmed by the complexity of bigger golang projects.
 
+![](https://komarev.com/ghpvc/?username=Not-Cyrus&color=1a1b27&style=plastic)
+
 <table>
 	<thead align="center">
 	<tr border: none;>
@@ -18,6 +20,7 @@
 		</tr>
 	</tbody>
 </table>
+
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Cyrus&theme=tokyonight&langs_count=4?exclude_repo=discord-file-webhook-upload&layout=compact)
 
