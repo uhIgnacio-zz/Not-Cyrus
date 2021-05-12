@@ -3,6 +3,7 @@
 - It shows how well I've improved in the language (in my opinion) 
 
 - As resources to allow starters to read something utterly garbage and not feel overwhelmed by the complexity of bigger golang projects.
+a
 
 ![](https://komarev.com/ghpvc/?username=Not-Cyrus&color=1a1b27&style=plastic)
 
