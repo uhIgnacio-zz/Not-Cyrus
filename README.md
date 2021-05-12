@@ -6,22 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Not-Cyrus&color=1a1b27&style=plastic)
 
-<table>
-	<thead align="center">
-	<tr border: none;>
-		<td><b>I am clinically insane based on an unofficial diagnosis</b></td>
-	</tr>
-	<tbody>
-		<tr>
-			<td><a href = "https://github.com/Not-Cyrus/GoGuardian"><b>GoGuardian - Server Protection</b></a></td>
-		</tr>
-		<tr>
-			<td><a href = "https://github.com/Not-Cyrus/GoRaider"><b>GoRaider - Server Destruction</b></a></td>
-		</tr>
-	</tbody>
-</table>
-
-
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Cyrus&theme=tokyonight&langs_count=4?exclude_repo=discord-file-webhook-upload&layout=compact)
 
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=tokyonight&layout=compact)
