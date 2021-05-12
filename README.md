@@ -9,7 +9,7 @@
 <table>
 	<thead align="center">
 	<tr border: none;>
-		<td><b>Products of an insane mind</b></td>
+		<td><b>I am clinically insane based on an unofficial diagnosis</b></td>
 	</tr>
 	<tbody>
 		<tr>
