@@ -1,8 +1,4 @@
-# Note, half of my old (golang) repos are stuff I was making while still getting the foothold of it. I keep them on my github because:
-
-- It shows how well I've improved in the language (in my opinion) 
-
-- As resources to allow starters to read something utterly garbage and not feel overwhelmed by the complexity of bigger golang projects.
+I make things sometimes, they usually suck, but hey atleast they don't have NSA backdoors like everything you own (including your cpu)
 
 ![](https://komarev.com/ghpvc/?username=Not-Cyrus&color=1a1b27&style=plastic)
 
