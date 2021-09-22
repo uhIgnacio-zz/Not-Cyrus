@@ -99,7 +99,7 @@ Services:
             Elementary OS https://elementary.io/
                 - Looks kinda like a mac
                 - Requires you to do very little in terms of actually learning how linux works
-            Garuda Linux
+            Garuda Linux https://garudalinux.org
                 - Probably the most cool looking out of this list
                 - a BUNCH of flavours to pick from
                 - Gaming editions
