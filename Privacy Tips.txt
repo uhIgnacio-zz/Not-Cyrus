@@ -1,0 +1,187 @@
+To gain privacy, first you have to figure out what you want to lose and base your threat scale off everyday attacks, total privacy online is NOT possible. The goal to privacy is to make it hard for people like ad companies, governments to know EVERYTHING about what you do online. So, use this more of a list of cool services with their positives and negatives than an actual guide you should follow down to the letter.
+
+Services:
+    Browsers:
+        Notes
+            - The easiest browser with no setup is Tor. If you truly care about privacy to the fullest extent I would recommend that.
+        Requirements
+            - Open source
+            - Minimal tracking by simply using the browser
+        Firefox
+            - At it's default settings it is basically just as bad as chrome.
+            - Easy to FIX however via https://ffprofile.com/ or https://github.com/arkenfox/user.js, these WILL break some sites so tweak them how you feel is better for you.
+            - Good addon list
+        Tor
+            - At it's default settings it is the most private
+            - Routes all of your traffic through 3 different servers
+            - Able to switch your security level on the fly
+            - Blocked by most sites (That's where the other 2 come in!)
+            - More Captchas
+            - Some sites protected by cloudflare don't work at all
+        Ungoogled chromium
+            - It's basically just chrome but without googles grasp, if you like chrome then you'll probably like this
+    
+    Chat clients:
+        Requirements
+            - Open source Client & protocol
+            - Little to no metadata unless specified otherwise
+            - E2E
+        Briar https://code.briarproject.org/briar/briar
+            - Tor routing
+            - P2P
+            - Probably the most secure in this list but comes with the cost of usability
+        Element (Matrix is the protocol) https://element.io/
+            - Have to setup a server yourself (or use a public one)
+            - Has a bit of metadata, used to be funded by an israeli ISP which was known for metadata collection
+            - You have to half-trust public servers to not misuse your metadata
+        Signal https://signal.org/
+            - requires a phone number to signup
+            - Easier to use
+        Gajim (XMPP is the protocol) https://gajim.org/
+            - Kinda ugly but gajim 1.4 looks cool
+            - Minimal to no metadata (This is more of on the protocol than gajim)
+            - Able to route through tor very easily (with gajim atleast)
+            - NOT E2E encrypted by default.
+
+    Email Forwarder/Services:
+        Notes
+            - To use these effectively you NEED to use multiple different emails for different things
+        Requirements
+            - Open source unless specified otherwise
+            - Some type of encryption unless specified otherwise
+        Anonaddy https://anonaddy.com
+            - Forwarding emails without giving someone your actual email
+            - Have to trust them to not log the contents
+            - Open source
+            - Able to delete email forwarders if you ever get spammed via it
+        Cock.li https://cock.li http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion
+            - Has an onion URL
+            - Not open source I believe BUT very open in their policies
+            - Invite only so you need to know someone who has it
+            - Able to delete your emails off their servers (supposedly) so you can make sure they sit on them for very little time.
+            - Allows any email client
+        Gmail https://gmail.com
+            - Does NOT have an onion url
+            - ONLY good for junkmail
+            - Allows any email client
+            - Public to literally everyone
+            - NOT open source and owned by a MAJOR tracking company
+        Guerilla mail https://www.guerrillamail.com
+            - Great for temporary mail that doesn't matter
+            - Lasts for a couple hours
+            - Does NOT have an onion url
+        Tutanota https://tutanota.com 
+            - Does NOT have onion urls (They are supposedly thinking about it though)
+            - Can't use any email client (You have to use theirs or the web client)
+            - Encrypted at the inbox level (You can't encrypt E2E email unless it's on the same domain)
+    
+    Operating Systems:
+        Requirements
+            - Open sourced
+        Mobile
+            Calyx OS https://calyxos.org
+                - Able to use most google services without their tracking
+                - Only works on certain phones
+                - Probably the easiest for your average person to use without losing functionality
+            Graphene OS https://grapheneos.org/
+                - Only works on certain phones
+                - Very good for privacy/security
+            Lineage OS https://lineageos.org/
+                - What I use
+                - Works on most phones
+                - Doesn't come COMPLETELY degoogled out of the box (https://youtu.be/E1U5qoiR1fM)
+        PC
+            Notes
+                - My notes on these are very minimal as I don't want to influence your choice on a distro, linux is about CHOICES I'm simply giving you some decent ones I stand by.
+            Requirements
+                - Easy to use for non-linux users
+                - Support for a lot of software/hardware out of the box
+            Elementary OS https://elementary.io/
+                - Looks kinda like a mac
+                - Requires you to do very little in terms of actually learning how linux works
+            Garuda Linux
+                - Probably the most cool looking out of this list
+                - a BUNCH of flavours to pick from
+                - Gaming editions
+                - Gives you a lot of options on installing
+            Linux mint https://linuxmint.com/
+                - Has multiple flavours so you can pick what you like the best
+            POP! OS https://pop.system76.com/
+                - Same as elementary OS
+                - Maintained by a company that sells computer hardware that comes removed with IME/APSP
+            Kubuntu https://kubuntu.org/
+                - Based on KDE (Fully customizable)
+            Xubuntu https://xubuntu.org/
+                - Based on XFCE (Very lightweight)
+            Zorin OS https://zorin.com/
+                - Has OPT OUT data collection
+                - Free and paid versions
+                - Good for people who are switching from windows
+    OTHER SERVICES:
+        KeypassXC https://keypassxc.org (Password manager)
+            - locally stores all of your passwords
+            - Really good features in my opinion
+            - Pretty nice UI
+            - Able to format your password database however you want to
+        Random name generator https://jimpix.co.uk/words/random-username-generator.asp
+            - Speaks for itself
+        Test browser leakage/fingerprinting
+            - https://amiunique.org/
+            - https://coveryourtracks.eff.org/
+
+    Search engines:
+        Requirements
+            - Open source
+        Whoogle https://github.com/benbusby/whoogle-search#public-instances
+            - Uses Google search without the tracking
+            - Able to be self hosted
+            - Public instances (You have to trust they don't log)
+            - Has onion urls
+            - Suffers from the censorship by google as it scrapes their results
+        Searx https://searx.space
+            - Scrapes from multiple search engines (you can choose which)
+            - Kinda ugly but you get used to it
+            - Has onion urls
+            - Public instances (You have to trust they don't log)
+            - Able to be self hosted 
+            - some instances have trash results so you have to switch to another one
+            - Popular instances get rate limited a LOT on duckduckgo/google
+    Vpns:
+        Notes
+            - Vpns DO NOT make you anonymous, just like incognito mode doesn't.
+            - You have to trust your vpn provider more than your own isp.
+            - Not everyone NEEDS a vpn for their anonymity. (Usually)
+        Requirements
+            - Open source
+            - 3rd party audits
+            - Claims to not log
+            - Crypto purchasing 
+            - Does not require anything to sign up
+        Mullvad https://mullvad.net/ http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion
+            - 5 euros every month
+            - Can signup through tor 
+            - Fast servers (As a mullvad user I can confirm this)
+            - Wireguard support & port forwarding
+            - Location: Switzerland
+            - Able to torrent
+
+        IVPN https://www.ivpn.net/
+            - Can sign up through tor but they do not have an onion URL
+            - Much more thorough in why a vpn could be good for some but not all
+            - Wireguard support & port forwarding
+            - Location: Gibraltar
+            - Able to torrent I believe but they dislike you doing it (As it's logless supposedly, you would be fine doing it.)
+    VPS/Domains:
+        https://njal.la - I will let their marketing speak for itself
+
+Sources:
+    - https://www.privacytools.io
+    - https://www.youtube.com/c/MentalOutlaw
+    - My personal experiences
+
+
+Other mentionable notes:
+    - Turning off gps / Try to use WiFi as little as possible is a good start
+    - SMS / Email are inheritely insecure, do not use them for sending sensitive data.
+    - Social medias track you, if you have to use them then use them as little as you can/use alternatives or use their web versions if they exist.
+    - If you like to use youtube use newpipe or freetube instead (They scrape off youtube but store everything locally and stop tracking cookies.)
