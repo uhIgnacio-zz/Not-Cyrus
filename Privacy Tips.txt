@@ -128,6 +128,8 @@ Services:
         Test browser leakage/fingerprinting
             - https://amiunique.org/
             - https://coveryourtracks.eff.org/
+            - https://fingerprintjs.com/
+            - https://www.deviceinfo.me/        
 
     Search engines:
         Requirements
